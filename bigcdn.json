@@ -1,8 +1,0 @@
-{
-    "name": "bigcdn",
-    "notes": "BigCDN video content",
-    "domains": [
-        "*.bigcdn.cc",
-        "bigcdn.cc"
-    ]
-}
